@@ -1,0 +1,19 @@
+.Navbar{
+    background-color: darkgray;
+}
+
+.Navbar a {
+    float: left;
+    display: block;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
